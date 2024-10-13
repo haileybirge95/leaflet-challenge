@@ -1,1 +1,1 @@
-# leaflet-challenge
+# This project uses data collected by The United States Geological Survey to create a map showing where earthquakes of magnitude 2.5 and higher have struck over the past month. The size of the markers indicates magnitude and the color indicates depth, per the legend provided.
